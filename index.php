@@ -21,6 +21,7 @@
 </style>
 </head>
 <body>
+
 <div id="header" class="navbar navbar-inverse navbar-fixed-top">	
 	<div class="navbar-inner">
 		<a class="brand" href="<?php echo dirname($_SERVER['PHP_SELF']); ?>">GFactory</a> 
@@ -84,6 +85,9 @@
 				
 				<p class="muted" id="copy-notice">
 				  <small>Photographs used in this application may be copyrighted. You are NOT allowed to copy these images without permission.</small>
+				  <br>
+				  <br>
+				  <a href="https://github.com/vasilionjea/gfactory" target="_blank"><img src="img/github.jpg" title="Fork Me on Github"></a>
 				</p>				
 			</div>
 		</div>
