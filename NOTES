@@ -3,55 +3,55 @@
 Example File Structure - *extreme example
 =========================================================================================================
 
-* * * galleris folder must work if it has its own files plus gallery folders and their categories * * *
-galleries ----------|
-					|
-					| * * * Gallery folder must work without categories * * *
-					|----------------gallery1
-					|						|		
-					|						|
-					|						|---------------category1
-					|						|						|
-					|						|						|--image1.jpg
-					|						|---image1.jpg			|
-					|						|						|--image2.jpg
-					|----image1.jpg			|						|
-					|						|						|--image3.jpg
-					|						|---image2.png
-					|						|
-					|						|---------------category2
-					|												|
-					|----image2.png									|--image1.jpg
-					|												|
-					|												|--image2.jpg
-					|												|
-					|												|--image3.jpg
-					|
-					|----image3.gif	
-					|
-					|
-					| * * * Gallery folder must work with categories and with its own files too	* * *
-					|----------------gallery2
-					|						|		
-					|						|
-					|						|---------------category1
-					|						|						|
-					|						|						|--image1.jpg
-					|						|---image1.jpg			|
-					|						|						|--image2.jpg
-					|						|---image2.jpg			|
-					|----image4.jpeg		|						|--image3.jpg
-					|						|---image3.jpg
-					|						|
-					|						|---------------category2
-					|						|						|
-					|						|						|--image1.jpg
-					|						|						|
-					|						|						|--image2.jpg
-					|						|---image4.jpg			|
-					|						|						|--image3.jpg
-					...						...						...
-					...						...						...
+* * * galleries folder must work if it has its own files plus gallery folders and their categories * * *
+galleries ------|
+		|
+		| * * * Gallery folder must work without categories * * *
+		|----------------gallery1
+		|			|		
+		|			|
+		|			|---------------category1
+		|			|			|
+		|			|			|--image1.jpg
+		|			|---image1.jpg		|
+		|			|			|--image2.jpg
+		|----image1.jpg		|			|
+		|			|			|--image3.jpg
+		|			|---image2.png
+		|			|
+		|			|---------------category2
+		|						|
+		|----image2.png					|--image1.jpg
+		|						|
+		|						|--image2.jpg
+		|						|
+		|						|--image3.jpg
+		|
+		|----image3.gif	
+		|
+		|
+		| * * * Gallery folder must work with categories and with its own files too * * *
+		|----------------gallery2
+		|			|		
+		|			|
+		|			|---------------category1
+		|			|			|
+		|			|			|--image1.jpg
+		|			|---image1.jpg		|
+		|			|			|--image2.jpg
+		|			|---image2.jpg		|
+		|----image4.jpeg	|			|--image3.jpg
+		|			|---image3.jpg
+		|			|
+		|			|---------------category2
+		|			|			|
+		|			|			|--image1.jpg
+		|			|			|
+		|			|			|--image2.jpg
+		|			|---image4.jpg		|
+		|			|			|--image3.jpg
+		...			...			...
+		...			...			...
 
 ========================================================================================================= 
 
